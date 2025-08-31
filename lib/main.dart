@@ -1,10 +1,10 @@
 import 'package:device_preview/device_preview.dart';
 import 'package:fitness_app/Features/Home/cubits/home_data_cubit.dart';
-import 'package:fitness_app/Features/Splash/presentation/Splash_View.dart';
+import 'package:fitness_app/Features/Splash/presentation/splash_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'core/Helper/Routes.dart';
+import 'core/Helper/routes.dart';
 
 void main() {
   runApp(
